@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.android.support</groupId>
   <artifactId>appcompat-v7</artifactId>
-  <version>18.0.0</version>
   <versioning>
+    <release>18.0.0</release>
     <versions>
       <version>18.0.0</version>
     </versions>
-    <lastUpdated>20130724233227</lastUpdated>
+    <lastUpdated>20130918072831</lastUpdated>
   </versioning>
 </metadata>
